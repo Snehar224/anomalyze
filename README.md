@@ -181,8 +181,8 @@ Raw Data (51,000 rows)
 
 ```bash
 # Step 1 — Clone the repository
-git clone https://github.com/Snehar273/anomalyzeee.git
-cd anomalyzeee
+git clone https://github.com/Snehar224/anomalyze.git
+cd anomalyze
 
 # Step 2 — Create virtual environment
 python -m venv fraud_env
@@ -237,7 +237,7 @@ Open your browser at `http://localhost:8501` 🎉
 
 If you found this useful, please ⭐ star the repository!
 
-[![GitHub](https://img.shields.io/badge/GitHub-Snehar273-181717?style=for-the-badge&logo=github)](https://github.com/Snehar273)
+[![GitHub](https://img.shields.io/badge/GitHub-Snehar224-181717?style=for-the-badge&logo=github)](https://github.com/Snehar224)
 
 </div>
 
